@@ -1,0 +1,9 @@
+[package]
+name = "laundry_cards"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+freefare = "1.1.0"
+nfc = "1.0.0"
+nfc-sys = "1.0.0"
